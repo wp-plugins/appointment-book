@@ -40,7 +40,7 @@ This plugin combines the power of FullCalendar and WordPress to present your eve
 
 = Credits =
 
-Big thank you to Gunjanbhai who generously gave us this plugin namespace after deciding not to go through with his implementation. One less confusing name on the plugin repo!
+Big thank to wordpress community for allowing us to submit plugin.
 
 == Installation ==
 
