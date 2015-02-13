@@ -14,27 +14,37 @@ Uses the Book Appointment plugin to add events,view events,manage events on part
 
 This plugin combines the power of FullCalendar and WordPress to present your events in a calendar format.
 
+= Key Benefits =
+
+* Extremely easy to use
+* Very flexible functionality. Fit to very wide range of business.
+* Attractive and customizable design of calendars, for fitting to your site design.
+* An easy to use booking admin panel that displays bookings in Calendar Overview
+
 = Features =
 
-Backend Admin:-
-1.	Add new appointment
-2.	Manage appointments (Approve and reject)
-3.	Show list of appointments and edit appointments.
-4.	Add new appointments and edit appointments from calendar.
-5.	Email send
-6.  Setting options
+* Manage your Bookings on Backend Admin:
 
-Frontend User:-
-1.	Add new appointment
-2.	Show booked appointments on calendar
-3.	Manage appointments 	
-4.	Email send
+	1. Admin can add new appointments.
+	2. Admin can manage appoinments (Approve and reject)
+	3. Show list of appointments and edit appointments. Admin can change status of approve, reject, complete, and reject
+	4. Admin can add new appointments and edit appointments from calendar.
+	5. Email send automatically when admin add appoinment and change booking status.
+
+* Make Bookings on Client side:
+	
+	1. Client can add new appoinments.
+	2. Show booked appointments on Calender. So client can change appoinment.
+	3. client can manage appointments.
+	4. Email send automatically when client add appoinment.
 
 = Credits =
 
 Big thank you to Gunjanbhai who generously gave us this plugin namespace after deciding not to go through with his implementation. One less confusing name on the plugin repo!
 
 == Installation ==
+
+Installing the plugin is easy. Just follow these steps:
 
 1. Upload `appointment-book` to the `/wp-content/plugins/`  directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
